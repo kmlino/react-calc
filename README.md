@@ -9,3 +9,5 @@ Pretendo adicionar mais validações como:
 - Trabalhar melhor os números gigantes
 - Adicionar função para exponenciais
 - Adicionar um histórico de cálculo
+
+Link para teste: [Calculadora React](https://kmlino.github.io/react-calc)
